@@ -1,0 +1,5 @@
+PATH_TO_GENERATED_DATASETS = "./results/datasets/"
+PATH_TO_METADATA_FILES = "./dataset_metadata/"
+BASE_NAME = "sdata"
+PATH_TO_STORE_GENERATED_DATASETS = "./datasets/"
+TOTAL_DATASETS_TO_GENERATE = 1
