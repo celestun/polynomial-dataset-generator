@@ -6,11 +6,7 @@ This project is a synthetic dataset generator designed to create datasets with p
 
 To get started with using the synthetic dataset generator, follow these steps:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/synthetic-dataset-generator.git
-   ```
+1. Clone the repository to your local machine.
 
 2. Install the required dependencies. You can use `pip` to install the dependencies listed in the `requirements.txt` file:
 
